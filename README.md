@@ -5,7 +5,7 @@ This my resume and my personal projects
 You can use <code>npm i build</code>
 
 # Authors
-Klemer Monteiro and Tank to refer: @AdrianaSaty
+@klemeragm and appreciate to refer to <a href="https://github.com/AdrianaSaty">Adriana Saty</a> for content
 
 
 
