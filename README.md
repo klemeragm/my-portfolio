@@ -2,10 +2,9 @@
 This my resume and my personal projects
 
 # To run
-To run my site you can use the 
+You can use <code>npm i build</code>
 
 # Authors
-
 Klemer Monteiro and Tank to refer: @AdrianaSaty
 
 
