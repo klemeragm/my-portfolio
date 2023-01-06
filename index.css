@@ -1,9 +1,22 @@
-body{
+:root{
+    --color-white: #ffffff;
+    --color-black: #202020;
+} 
+
+body {
     color: white;
     background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
-
 }
+/*
+* {
+    padding: 0;
+    margin: 5;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: var(--color-white);
+}*/
+
 ul {
     display: flex;
     justify-content: space-between;
@@ -21,7 +34,6 @@ header img {
     height: 150px;
     border-radius: 50%;
     border: 5px solid rgb(0, 13, 255) ;
-
 }
 
 header h3 {
